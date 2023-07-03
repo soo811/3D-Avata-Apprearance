@@ -1,4 +1,4 @@
-# hair_segment
+# 3D AVATA Appearance
 
 
 model -> mediapipe
