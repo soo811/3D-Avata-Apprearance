@@ -1,5 +1,5 @@
 # 3D AVATA Appearance
 
 
-model -> mediapipe
+model -> mediapipe, dlib
 https://developers.google.com/mediapipe/solutions/vision/image_segmenter
