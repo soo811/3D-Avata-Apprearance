@@ -3,7 +3,7 @@
 dlib facial landmark 기반 얼굴 파라미터 예측
 
 *디렉토리*
-- DataSet : 학습데이터로 사용한 데이터 셋
+- DataSet : 학습데이터로 사용한 데이터 셋 + 테스트한 이미지
 - ParameterPrediction : 얼굴 파라미터 예측을 위한 모델
     - dlib : dlib을 이용한 모델
     - mediapipe : google mediapipe 이용 모델
